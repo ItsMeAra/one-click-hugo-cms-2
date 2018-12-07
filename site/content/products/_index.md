@@ -1,6 +1,5 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -97,6 +96,10 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+    - description: sdfsdfsdf
+      items:
+        - sdfsdfsdf
+      plan: sdsdf
+      price: sdfsdf
 ---
-
 
